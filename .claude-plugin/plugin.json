@@ -1,0 +1,1 @@
+{ "name": "usage-bars", "version": "0.1.0", "license": "MIT", "author": { "name": "Bryan Westhafer" }, "description": "Two stacked bars above the prompt: 5-hour and weekly usage.", "types": "./types/index.d.ts" }

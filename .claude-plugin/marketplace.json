@@ -1,0 +1,5 @@
+{
+  "name": "bryan-mods",
+  "owner": { "name": "Bryan Westhafer" },
+  "plugins": [{ "name": "usage-bars", "source": "./" }]
+}
